@@ -43,7 +43,7 @@ The goal of this project is to predict whether there will be rainfall in Austral
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/mideyolu/rainfall-prediction.git
+   git clone https://github.com/mideyolu/DataScience/Machine Learning/rainfall-prediction.git
    ```
 ````
 
