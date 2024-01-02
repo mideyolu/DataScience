@@ -16,7 +16,7 @@ The goal of this project is to predict whether there will be rainfall in Austral
 
 2. **Machine Learning Algorithms:**
 
-   - Implemented and apply the following classification algorithms:
+   - Implemented and applied the following classification algorithms:
      - Linear Regression
      - K-Nearest Neighbors (KNN)
      - Decision Trees
