@@ -30,7 +30,8 @@ The goal of this project is to predict whether there will be rainfall in Austral
    - Evaluated the performance of each classifier using metrics such as accuracy, Jaccard Index, F1-Score, and LogLoss.
 
 4. **Comparison and Analysis:**
-   - Compared the performance of different classifiers.
+   - Compare the performance of different classifiers.
+   - Provide insights into why certain algorithms performed better or worse.
 
 ## Directory Structure
 
